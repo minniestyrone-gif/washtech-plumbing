@@ -1,0 +1,8 @@
+{
+  "name": "Wash Tech Plumbing Elite",
+  "description": "A high-end, modern landing page for Wash Tech Plumbing featuring a vibrant, professional aesthetic blending industrial grit with modern tech.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
